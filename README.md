@@ -1,4 +1,9 @@
 # ChinaDebt Trap Africa
+## Context
+https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/README.md#objective
+https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/README.md#project-flow
+<!>[Insights]https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/README.md#insights-bulb<!>
+
 ## Objective
  In this project, all I wanted to achieve is to show the loans that was allocated to different African nations, which sector it was allocated to and the project it was invested in,  granularity. While showing the Chinese.
  
