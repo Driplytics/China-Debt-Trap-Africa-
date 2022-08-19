@@ -37,3 +37,7 @@
    ---
  5. Angola is the highest beneficiary of Chinese Loans in Africa. Having received over $42.64bn of Chinese loans. With  mining as the most allocated project which received $10bn in loan for the Sonangol recapitalization project in 2016 and became the most financed project in Africa by the Chinese lenders.
    ![Map](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Map.png)
+   
+   
+## Use interactive Dashoard   
+You can interact with the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWY4NzdjYjMtOGQ1NC00NGU2LTk2OTktMmRjYjNhYjIxY2EyIiwidCI6Ijk4ZWE2YjRiLWUwYjEtNGUwNi1hMDUxLTlhYzEwNWI0NTkzNCJ9&embedImagePlaceholder=true)  Directly
