@@ -13,6 +13,7 @@
  In this project, all I wanted to achieve is to show the loans that was allocated to different African nations, which sector it was allocated to and the project it was invested in,  granularity. While showing the Chinese.
  
  ## Project Flow
+ ![Project flow](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/China%20DebtArtboard%201Project%20flow.png)
  + **Data collection** : This is quite a very simple and easily available data collected from kaggle.com
  + **Data Preparation** : The source data is all cleaned up. All I had to do is to perform some transformations like Promoting the first row to Header, and changing some of the columns to the correct Data types.
  + **Exploration and Analysis** : Here I explored the data is every which way I could, making sure to take notes and relationships that exists with each entity. 
@@ -38,7 +39,7 @@
 ---      
  4. Chinese lenders interest in the Transportation and Power sector in Africa has been consistent since 2009. These 2 sectors have received a consistent allocation since 2009 - present. The only bigger allocation than these 2 sectors was the allocation to the Mining sector in 2016.
  
-    ![Allocation flow](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Flow%20of%20Allocation%20.png)
+    ![Allocation flow](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/China%20DebtArtboard%201ZTE%20Lender.png)
   
    ---
 
