@@ -19,9 +19,16 @@
  ## Insights :bulb: 
  1. In Africa, the total Chinese loans of $159.81bn was allocated to 21 sectors, which was used to finance 1188 projects in different African Countries. 
  
- ![Stats](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Key%20Stats.png)
+    ![Stats](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Key%20Stats.png)
  
  2. Among the top 5 Chinese lenders, (ZTE) Zhongxing Telecommunication Equipment Co. is the top most lender that is not state-owned Chinese lender, that invested in solely ICT in Africa.
+ 
+     ![Lenders](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/top%20Lenders.png)
+ 
  3. The Transport sector has the highest allocation of Chinese Loans. With $46.78bn Loaned, followed by the power sector which has $40.46bn allocation. While the Mining and ICT sector has $17.96bn and $13.53bn respectively. Taking the 3rd and 4th positions of the most allocated sectors in Africa. These sectors are quite significant for developing countries in Africa, because it's the bedrock of Development through industrialization, commercialization and capacity building. 
+   ![Allocation by sector](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Sector%20allocation.png)
+ 
  4. Chinese lenders interest in the Transportation and Power sector in Africa has been consistent since 2009. These 2 sectors have received a consistent allocation since 2009 - present. The only bigger allocation than these 2 sectors was the allocation to the Mining sector in 2016.
- 5. Angola is the highest beneficiary of Chinese Loans in Africa. Having received over $42.64bn of Chinese loans. With  mining as the most allocated project which received $10bn in loan for the Sonangol recapitalization project in 2016 and became the most financed project in Africa by the Chinese lenders. 
+   ![Allocation flow](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Flow%20of%20Allocation%20.png)
+ 5. Angola is the highest beneficiary of Chinese Loans in Africa. Having received over $42.64bn of Chinese loans. With  mining as the most allocated project which received $10bn in loan for the Sonangol recapitalization project in 2016 and became the most financed project in Africa by the Chinese lenders.
+   ![Map](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Map.png)
