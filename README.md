@@ -1,4 +1,4 @@
-# ChinaDebt Trap Africa
+# ChinaDebt Trap (Africa)
 
 ## Context
 [Objective](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/README.md#objective)
@@ -27,7 +27,7 @@
  
  ## Preparing the Data
  The data preparation requires little task of promoting the first row to Header, and changing some of the columns to the correct Data types. 
- ![]()
+ ![](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Cleaned%20Data.png)
  
  
  ## Insights :bulb: 
