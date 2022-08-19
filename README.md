@@ -26,6 +26,8 @@
  ![](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Original%20Data.png)
  
  ## Preparing the Data
+ The data preparation requires little task of promoting the first row to Header, and changing some of the columns to the correct Data types. 
+ ![]()
  
  
  ## Insights :bulb: 
