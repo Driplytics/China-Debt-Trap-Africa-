@@ -20,9 +20,13 @@
  + **Putting it all together** : This is the creative part of my project, where I used clean and simple designs and visualization to present the outcome of my Analysis through building an interactive dashboard that shows all the important metrics. 
  
  ## Data Source 
- The collected data source is from [Kaggle.com](https://www.kaggle.com/datasets/ramjasmaurya/chinese-debt-trap)
- the data on 
+ The collected data source is from [Kaggle.com](https://www.kaggle.com/datasets/ramjasmaurya/chinese-debt-trap).
+ 
+ Here is how the Data table looks like in a table
  ![](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Original%20Data.png)
+ 
+ ## Preparing the Data
+ 
  
  ## Insights :bulb: 
   **1.**
