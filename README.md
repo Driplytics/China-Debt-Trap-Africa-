@@ -26,7 +26,12 @@
  ![](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Original%20Data.png)
  
  ## Preparing the Data
- The data preparation requires little task of promoting the first row to Header, and changing some of the columns to the correct Data types. 
+ The data preparation requires little task of promoting the first row to Header, and changing some of the columns to the correct Data types.
+ 
+ **Before Transformation**
+ ![](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Original%20Data%20(2).png)
+ 
+ **Prepared Data**
  ![](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Cleaned%20Data.png)
  
  
