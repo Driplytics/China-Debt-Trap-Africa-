@@ -26,7 +26,7 @@
   ---
  2. Among the top 5 Chinese lenders, (ZTE) Zhongxing Telecommunication Equipment Co. is the top most lender that is not state-owned Chinese lender, that invested in solely ICT in Africa.
   
-     ![Lenders](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/top%20Lenders.png)
+     ![Lenders](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/ZTE%20lender.png)
 ---  
        
          
@@ -34,7 +34,6 @@
 
    ![Allocation by sector](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Sector%20allocation.png)
  
-
     
 ---      
  4. Chinese lenders interest in the Transportation and Power sector in Africa has been consistent since 2009. These 2 sectors have received a consistent allocation since 2009 - present. The only bigger allocation than these 2 sectors was the allocation to the Mining sector in 2016.
