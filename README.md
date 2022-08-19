@@ -22,7 +22,7 @@
  + **Data collection** : This is quite a very simple and easily available data collected from kaggle
  + **Data Preparation** : The source data is all cleaned up. All I had to do is to perform some transformations like Promoting the first row to Header, and changing some of the columns to the correct Data types.
  + **Exploration and Analysis** : Here I explored the data is every which way I could, making sure to take notes and relationships that exists with each entity. 
- + **Putting it all together** : This is the creative part of my project, where I used clean and simple designs and visualization to present the outcome of my Analysis through building an interactive dashboard that shows all the important metrics. 
+ + **Visualization (Putting it all together)** : This is the creative part of my project, where I used clean and simple designs and visualization to present the outcome of my Analysis through building an interactive dashboard that shows all the important metrics. 
  
  ## Data Source 
  The collected data source is from [Kaggle.com](https://www.kaggle.com/datasets/ramjasmaurya/chinese-debt-trap).
