@@ -22,6 +22,7 @@
  ## Data Source 
  The collected data source is from [Kaggle.com](https://www.kaggle.com/datasets/ramjasmaurya/chinese-debt-trap)
  the data on 
+ ![](https://github.com/Driplytics/China-Debt-Trap-Africa-/blob/main/Original%20Data.png)
  
  ## Insights :bulb: 
   **1.**
